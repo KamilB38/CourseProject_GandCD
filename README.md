@@ -2,16 +2,10 @@
 Course "Getting and Cleaning" Data course project
 _____________________________________________________________
 Script is used for cleaning dataset
-Merge training and test datasets 
-Labeling columns with meaningfull names and some cleaning
-Numeric activity code is labeled with meaningfull names
-cleaned data is written to csv file:merged_data.csv
-Calculates averagevalue per activity per subject
-aggregated data is written to csv file:agg_mean_data.csv
+Merge training and test datasets.  Labeling columns with meaningfull names and some cleaning.  Numeric activity code is labeled with meaningfull names. Cleaned data is written to csv file:merged_data.csv  
+Calculates average values per activity per subject.  Aggregated data is written to csv file:agg_mean_data.csv
 ______________________________________________________________
-available fields
-subject and activity are dimensions
-the remaining fields are the mean values
+available fields:  subject and activity are dimensions.   the remaining fields are the mean values
 
 - 1,"subject"
 - 2,"activity"
